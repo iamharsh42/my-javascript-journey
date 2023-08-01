@@ -1,4 +1,4 @@
-#_Password Generator using js
+#Password Generator using js
 
 This is a simple webapp through which you can generate random passwords for your use. Few simple functions makes the process smooth and accurate. Once the password id generated you can copy it and use it anywhere.
 
