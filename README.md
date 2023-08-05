@@ -6,3 +6,6 @@ In this repository I'll share all my javascript learnings and projects starting 
 
 2) Password Generator using js
 
+3) Weather App using js
+
+4) Notes App using js
