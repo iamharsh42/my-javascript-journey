@@ -1,6 +1,6 @@
 Stopwatch using js
 
-This is a good looking stopwatch made using simple javascript functions. I've used the "setInterval" and "clearInterval" functions to make things work smoothly.
+I've made this simple and good-looking stopwatch using simple JavaScript functions. I've used the "setInterval" and "clearInterval" functions to make things work smoothly.
 
 #Screenshots
 
