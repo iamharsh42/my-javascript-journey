@@ -1,5 +1,5 @@
 # My Javascript Journey
-In this repository, I'll share all my javascript learnings and projects from beginner to advanced. I hope you guys will find it interesting :)
+In this repository, I'll share all my JavaScript learnings and projects from beginner to advanced. I hope you guys will find it interesting :)
 
 
 1) Passenger Calculator App
