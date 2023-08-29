@@ -11,3 +11,5 @@ In this repository, I'll share all my javascript learnings and projects from beg
 4) Notes App using js
 
 5) Daily quotes using js
+
+6) Music player using js
