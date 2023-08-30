@@ -15,3 +15,5 @@ In this repository, I'll share all my JavaScript learnings and projects from beg
 6) Music player using js
 
 7) Stopwatch using js
+
+8) Popup design using js
