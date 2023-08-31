@@ -17,3 +17,5 @@ In this repository, I'll share all my JavaScript learnings and projects from beg
 7) Stopwatch using js
 
 8) Popup design using js
+
+9) Show/Hide Password using js
