@@ -19,3 +19,5 @@ In this repository, I'll share all my JavaScript learnings and projects from beg
 8) Popup design using js
 
 9) Show/Hide Password using js
+
+10) Coming soon webpage using js ( visit site: https://frontend-projects-xi.vercel.app/)
