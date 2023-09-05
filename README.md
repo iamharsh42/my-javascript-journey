@@ -23,3 +23,5 @@ In this repository, I'll share all my JavaScript learnings and projects from beg
 10) Coming soon webpage using js ( visit site: https://frontend-projects-xi.vercel.app/)
 
 11) Dropdown using js
+
+12) Mini Calendar using js
