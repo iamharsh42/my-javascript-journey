@@ -1,6 +1,6 @@
 Coming soon webpage using js
 
-This webpage is displayed either when a website is down for maintenance or when a new website is about to get launched. To make this look good I have used css animations as well. Visit site: https://frontend-projects-xi.vercel.app/
+This webpage is displayed when a website is down for maintenance or when a new website is about to be launched. To make this look good I have used css animations as well. Visit site: https://frontend-projects-xi.vercel.app/
 
 #Screenshot
 
