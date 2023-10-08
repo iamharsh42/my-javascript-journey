@@ -26,4 +26,4 @@ In this repository, I'll share all my JavaScript learnings and projects from beg
 
 12) Mini Calendar using js
 
-13) Drag & Drop using js
+13) Drag & Drop using js (https://6522ca4b4195594486240bdc--profound-duckanoo-474e8d.netlify.app/)
