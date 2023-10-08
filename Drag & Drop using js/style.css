@@ -5,6 +5,19 @@
   box-sizing: border-box;
 }
 
-body {
-  background: linear-gradient(rgb(66, 245, 138), rgb(7, 173, 179));
+.container {
+  width: 100%;
+  min-height: 100vh;
+  background: #0b0423;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#left,
+#right {
+  width: 300px;
+  min-height: 400px;
+  margin: 20px;
+  border: 2px dashed #fff;
 }
