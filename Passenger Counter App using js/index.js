@@ -39,25 +39,28 @@
 let count = 0;
 
 let countElement = document.getElementById("countEl"); // now this will give us the value that is there
-let saveEl= document.getElementById("save-el");
+let saveEl = document.getElementById("save-el");
 
-function increment()
-{
-    console.log("click successful");
-    count++;
-    countElement.innerText= count; // here we are updating it after every click
-    console.log(count);
+function increment() {
+  console.log("click successful");
+  count++;
+  countElement.innerText = count; // here we are updating it after every click
+  console.log(count);
 }
 
-function decrement(){
+function decrement() {
+  if (count == 0) {
+    alert("Decrementing further will produce a negative number!");
+  } else {
     count--;
-    countElement.innerText= count;
+    countElement.innerText = count;
+  }
 }
 
-function save(){
-    let temp = count + " - ";
-    saveEl.textContent += temp;  // well instead of innertext we can also use textContent as it a much advanced property
-    console.log(count);
+function save() {
+  let temp = count + " - ";
+  saveEl.textContent += temp; // well instead of innertext we can also use textContent as it a much advanced property
+  console.log(count);
 }
 
 let welcomeEl = document.getElementById("welcome-el");
@@ -67,9 +70,7 @@ let greeting = "Welcome back, ";
 
 welcomeEl.innerText = greeting + name;
 
-function reset()
-{
-    countElement.textContent = 0;
-    count = 0;
+function reset() {
+  countElement.textContent = 0;
+  count = 0;
 }
-
